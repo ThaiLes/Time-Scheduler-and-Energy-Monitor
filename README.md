@@ -12,6 +12,6 @@ Initially the idea was just to switch the geyser ON/OFF using a scheduler but as
 The design is based on the ESP-12F WiFi platform and using the Blynk App to manage your schedule and actively monitor your power consumption. The hardware is built into a 32mm wide Din Rail Housing that can be easily wired up into your Distribution Board. 
 
 **DIY**
-DIY Partly built up SMD boards or a completed unit is available if your are interested in supporting my project. Hell I may even be able to quit my forced retirement!! The project is complex, you will need a certain level of skill in Electronics and be familiar with writing code using the Arduino IDE and using Blynk. 
+DIY Partly built up SMD boards or a completed unit is available if your are interested in supporting my project. The project is complex, you will need a certain level of skill in Electronics and be familiar with writing code using the Arduino IDE and using Blynk. 
 
 For more details see https://community.blynk.cc/t/time-scheduler-and-power-energy-monitor/52902
