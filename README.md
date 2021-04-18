@@ -13,3 +13,5 @@ The design is based on the ESP-12F WiFi platform and using the Blynk App to mana
 
 **DIY**
 DIY Partly built up SMD boards or a completed unit is available if your are interested in supporting my project. Hell I may even be able to quit my forced retirement!! The project is complex, you will need a certain level of skill in Electronics and be familiar with writing code using the Arduino IDE and using Blynk. 
+
+For more details see https://community.blynk.cc/t/time-scheduler-and-power-energy-monitor/52902
